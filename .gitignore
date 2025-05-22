@@ -1,0 +1,7 @@
+# Obsidian 
+
+**/.obsidian/
+**/.obsidian
+
+!**/.obsidian/app.json
+!**/.obsidian/core-plugins.json
