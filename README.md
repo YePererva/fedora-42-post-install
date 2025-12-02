@@ -1,4 +1,4 @@
-# Fedora 42 post-install tweaks
+# Fedora 43 post-install tweaks
 
 
-Some remarks on setting Fedora 42 with KDE Plasma 6 after installation
+Some remarks on setting Fedora 43 with KDE Plasma 6 after installation
